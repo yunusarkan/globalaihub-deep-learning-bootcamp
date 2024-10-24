@@ -23,15 +23,15 @@ The model is trained with Adam Optimizer and categorical_crossentropy loss funct
 
 7. Evaluating the Model Performance
 The model is evaluated with the test dataset, the accuracy value and loss function are calculated. Afterwards, the performance of the model is visualized with graphs, the graphical output is shown in Figure 1 and Figure 2.
-![Figure 1](https://github.com/yunusarkan/globalaihub-deep-learning-bootcamp/blob/main/model_output.jpg)
+<p align="center">![Figure 1](https://github.com/yunusarkan/globalaihub-deep-learning-bootcamp/blob/main/model_output.jpg)</p>
 <p align="center">Figure 1</p>
 
-![Figure 2](https://github.com/yunusarkan/globalaihub-deep-learning-bootcamp/blob/main/test_output.jpg)
+<p align="center">![Figure 2](https://github.com/yunusarkan/globalaihub-deep-learning-bootcamp/blob/main/test_output.jpg)</p>
 <p align="center">Figure 2</p>
 
 The results are analyzed in detail with the classification report and confusion matrix, the analysis output is shown in Figure 3.
 
-![Figure 3](https://github.com/yunusarkan/globalaihub-deep-learning-bootcamp/blob/main/matrix.jpg)
+<p align="center">![Figure 3](https://github.com/yunusarkan/globalaihub-deep-learning-bootcamp/blob/main/matrix.jpg)</p>
 <p align="center">Figure 3</p>
 
 You can access the Kaggle notebook of the project from this link: https://www.kaggle.com/code/hilalkk/globalaihub-deep-learning-bootcamp .
